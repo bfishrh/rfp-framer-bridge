@@ -1,0 +1,13 @@
+{
+  "name": "rfp-framer-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serverless bridge that pushes Reliance Hospitality RFPs from Smartsheet (via Make.com) into the Framer CMS using the Framer Server API.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "framer-api": "0.1.12"
+  }
+}
